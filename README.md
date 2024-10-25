@@ -24,4 +24,6 @@ The purpose of a recommendation system basically is to search for content that w
 -Hybrid systems, which combine both types of information with the aim of avoiding problems that are generated when working with just one kind.
 -Combination of both and used now a days .
 -Uses : word2vec , embedding .
-#About this project:
+# About this project:![ecommerce_sales_PowerBI-1](https://github.com/user-attachments/assets/96ad11b9-5ae5-4a59-a670-2d565bfbb55a)
+
+
