@@ -26,7 +26,7 @@ Combination of both and used now a days .
 Uses : word2vec , embedding .
 # About this project:
  This is a hybrid recommendation model. By combining content-based filtering with classification techniques and hyperparameter tuning, it leverages multiple methods to improve recommendation accuracy and personalization
-Data Loading:It begins by loading a CSV file containing movie data (likely from the MovieLens dataset) and displays the first few rows to give an initial look at the dataset structure.
+Data Loading:It begins by loading a CSV file containing movie data  and displays the first few rows to give an initial look at the dataset structure.
 Title Preprocessing:
 
 A clean_title function is created to remove special characters from movie titles, keeping only alphanumeric characters. This step standardizes titles, making them suitable for text analysis.
